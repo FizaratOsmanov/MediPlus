@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\Abstractions\" />
+    <Folder Include="Services\Concretes\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MediPlus.DAL\MediPlus.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
