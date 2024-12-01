@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Services\Abstractions\" />
-    <Folder Include="Services\Concretes\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\MediPlus.DAL\MediPlus.DAL.csproj" />
   </ItemGroup>
 
