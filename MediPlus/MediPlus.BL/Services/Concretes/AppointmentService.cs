@@ -19,6 +19,7 @@ namespace MediPlus.BL.Services.Concretes
 
         public void CreateAppointment(Appointment appointment)
         {
+
             _mediPlusDbContext.Appointments.Add(appointment);
             int rows = _mediPlusDbContext.SaveChanges();
 
@@ -27,6 +28,9 @@ namespace MediPlus.BL.Services.Concretes
                 throw new Exception("Something went wrong");
 
             }
+            appointment.CreateAt = DateTime.Now;
+            _mediPlusDbContext.SaveChanges();
+
         }
 
         public Appointment? GetAppointmentById(int id)
@@ -42,9 +46,36 @@ namespace MediPlus.BL.Services.Concretes
             return appointments;
         }
 
-        public void UpdateAppointment(Appointment appointment)
+        public void UpdateAppointment(int id,Appointment appointment)
         {
 
+            if (id != appointment.Id)
+            {
+                throw new Exception("Id is wrong");
+            }
+
+            Appointment? baseAppointment=_mediPlusDbContext.Appointments.Find(id);
+
+            if (baseAppointment == null)
+            {
+                throw new Exception($"Appointment is not found with tis ID{id}");
+            }
+
+            baseAppointment.DoctorId = appointment.DoctorId;
+            baseAppointment.PatientId = appointment.PatientId;
+            baseAppointment.AppointmentDate = appointment.AppointmentDate;
+            baseAppointment.UpdateAt=DateTime.Now;
+
+        }
+
+        public void DeleteAppointment(int id)
+        {
+            Appointment? appointment= _mediPlusDbContext.Appointments.Find(id);
+            if (appointment == null)
+            {
+                throw new Exception("Appointment is not found");
+            }
+            _mediPlusDbContext.Appointments.Remove(appointment);
         }
     }
 }

@@ -64,10 +64,19 @@ namespace MediPlus.BL.Services.Concretes
             basePatient.Username = patient.Username;
             basePatient.IsDeleted = patient.IsDeleted;
             basePatient.Appointments = patient.Appointments;
+            _mediPlusDbContext.SaveChanges();
 
+        }
 
+        public void DeletePatientint (int id)
+        {
+            Patient? patient = _mediPlusDbContext.Patients.Find(id);
+            if (patient == null)
+            {
+                throw new Exception("Doctor is not found");
 
-
+            }
+            _mediPlusDbContext.Patients.Remove(patient);
         }
     }
 }

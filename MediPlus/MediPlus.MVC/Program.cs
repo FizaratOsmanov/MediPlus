@@ -1,3 +1,5 @@
+using MediPlus.BL.Services.Abstractions;
+using MediPlus.BL.Services.Concretes;
 using MediPlus.DAL.Contexts;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
@@ -9,18 +11,18 @@ namespace MediPlus.MVC
     {
         public static void Main(string[] args)
         {
-            var builder = WebApplication.CreateBuilder(args);
 
+
+            var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddScoped<IDoctorService, DoctorService>();
             builder.Services.AddControllersWithViews();
-            builder.Services.AddDbContext<MediPlusDbContext>(options =>options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"))
-  );
+            builder.Services.AddDbContext<MediPlusDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql")));
             var app = builder.Build();
             app.UseStaticFiles();
             app.MapControllerRoute(name: "areas", pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
-            app.MapControllerRoute(name: "default",pattern: "{controller=Home}/{action=Index}/{id?}");
-            
-
-           app.Run();
+            app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
+            app.Run();
         }
+     
     }
 }

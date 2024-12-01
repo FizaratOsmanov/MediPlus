@@ -64,7 +64,7 @@ namespace MediPlus.BL.Services.Concretes
             baseDoctor.FIN=doctor.FIN;
             baseDoctor.PhoneNumber = doctor.PhoneNumber;
             baseDoctor.Email = doctor.Email;
-            baseDoctor.UserName = doctor.UserName;
+            baseDoctor.Username = doctor.Username;
             baseDoctor.IsActive = doctor.IsActive;
             _mediPlusDbContext.SaveChanges();
         }

@@ -19,11 +19,11 @@ namespace MediPlus.DAL.Models
 
         public Patient? Patient { get; set; }
 
-        public DateTime AppointmentDate { get; set; }
+        public DateTime? AppointmentDate { get; set; }
 
-        public DateTime CreateAt { get; set; }
+        public DateTime? CreateAt { get; set; }
 
-        public DateTime UpdateAt { get; set; }
+        public DateTime? UpdateAt { get; set; }
 
     }
 }

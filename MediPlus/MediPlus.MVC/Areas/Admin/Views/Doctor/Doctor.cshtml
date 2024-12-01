@@ -1,0 +1,37 @@
+﻿@using MediPlus.DAL.Models;
+@model IEnumerable<Doctor>;
+
+
+<a type="button" class="btn btn-success mb-3" asp-area="Admin" asp-controller="Doctor" asp-action="Create">Create Doctor</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Surname</th>
+            <th scope="col">FIN</th>
+            <th scope="col">Email</th>
+            <th scope="col">PhoneNumber</th>
+            <th scope="col">Username</th>
+            <th scope="col">IsActive</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Doctor item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Name</th>
+                <td>@item.Surname</td>
+                <td>@item.FIN</td>
+                <td>@item.Email</td>
+                <td>@item.PhoneNumber</td>
+                <td>@item.Username</td>
+                <td>@item.IsActive</td>
+                
+                <td><a class="btn btn-primary" asp-area="Admin" asp-controller="Doctor" asp-action="Update" asp-route-id="@item.Id">Update</a></td>
+                <td><a class="btn btn-danger" asp-area="Admin"  asp-controller="Doctor" asp-action="Delete" asp-route-id="@item.Id">Delete</a></td>
+            </tr>
+        }
+
+    </tbody>
+</table>
