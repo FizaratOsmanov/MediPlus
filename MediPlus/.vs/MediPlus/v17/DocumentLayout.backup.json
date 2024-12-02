@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|solutionrelative:mediplus.bl\\services\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\concretes\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|solutionrelative:mediplus.bl\\services\\concretes\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\abstractions\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|solutionrelative:mediplus.bl\\services\\abstractions\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\abstractions\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|solutionrelative:mediplus.bl\\services\\abstractions\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\abstractions\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|solutionrelative:mediplus.bl\\services\\abstractions\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|solutionrelative:mediplus.dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.dal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|solutionrelative:mediplus.dal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\areas\\admin\\views\\doctor\\doctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\areas\\admin\\views\\doctor\\doctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\areas\\admin\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\areas\\admin\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\areas\\admin\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|solutionrelative:mediplus.dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,36 +99,8 @@
       "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.dal\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|solutionrelative:mediplus.dal\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\concretes\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|solutionrelative:mediplus.bl\\services\\concretes\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|solutionrelative:mediplus.bl\\services\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\abstractions\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|solutionrelative:mediplus.bl\\services\\abstractions\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\abstractions\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|solutionrelative:mediplus.bl\\services\\abstractions\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Migrations\\20241201095919_Service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediPlus.DAL\\Migrations\\20241201095919_Service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.dal\\migrations\\20241130202410_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\abstractions\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|solutionrelative:mediplus.bl\\services\\abstractions\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BA5FBB1-C0B9-4B4B-BDAB-0E0A740701F1}|MediPlus.BL\\MediPlus.BL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.bl\\services\\concretes\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -187,10 +187,6 @@
       "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\wwwroot\\css\\animate.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.mvc\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68F66066-45D9-4CAA-A595-2B82EF96FAEC}|MediPlus.MVC\\MediPlus.MVC.csproj|solutionrelative:mediplus.mvc\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -233,6 +229,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.dal\\migrations\\20241130202410_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|solutionrelative:mediplus.dal\\migrations\\20241130202410_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|c:\\users\\lenovo\\desktop\\mediplusapp\\mediplus\\mediplus.dal\\migrations\\20241201095919_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C426D-86EF-4D66-8B85-BCBEF41B6C73}|MediPlus.DAL\\MediPlus.DAL.csproj|solutionrelative:mediplus.dal\\migrations\\20241201095919_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -241,8 +241,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 2804,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 2639,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -250,20 +250,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Doctor.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Doctor.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Doctor.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Doctor.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Doctor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T06:03:42.696Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Concretes\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "MediPlus.BL\\Services\\Concretes\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Concretes\\AppointmentService.cs",
+              "RelativeToolTip": "MediPlus.BL\\Services\\Concretes\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:36:32.971Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Concretes\\DoctorService.cs",
+              "RelativeDocumentMoniker": "MediPlus.BL\\Services\\Concretes\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Concretes\\DoctorService.cs",
+              "RelativeToolTip": "MediPlus.BL\\Services\\Concretes\\DoctorService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:36:05.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
@@ -271,12 +282,11 @@
               "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T05:55:55.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T05:55:55.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PatientController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Controllers\\PatientController.cs",
@@ -284,233 +294,36 @@
               "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Controllers\\PatientController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T05:57:30.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T08:30:31.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEQAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T19:10:22.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppointmentController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Controllers\\AppointmentController.cs",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Controllers\\AppointmentController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Controllers\\AppointmentController.cs",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Controllers\\AppointmentController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T05:57:51.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T05:57:30.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T06:20:44.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T08:30:48.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Update.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Update.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Update.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T06:21:00.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Appointment.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Appointment.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Appointment.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Appointment.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Appointment.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T06:03:10.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T11:34:12.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Patient.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Patient.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Patient.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Patient.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Patient.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T06:04:03.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Update.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Update.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Update.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T12:48:58.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "MediPlus.DAL\\Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Models\\Doctor.cs",
-              "RelativeToolTip": "MediPlus.DAL\\Models\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T10:18:50.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:53:00.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAKUAAAAAAAAAAAArwK4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T18:53:39.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppointmentService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Concretes\\AppointmentService.cs",
-              "RelativeDocumentMoniker": "MediPlus.BL\\Services\\Concretes\\AppointmentService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Concretes\\AppointmentService.cs",
-              "RelativeToolTip": "MediPlus.BL\\Services\\Concretes\\AppointmentService.cs",
-              "ViewState": "AgIAADAAAACAAAAAAIAswEYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T21:36:32.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Concretes\\DoctorService.cs",
-              "RelativeDocumentMoniker": "MediPlus.BL\\Services\\Concretes\\DoctorService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Concretes\\DoctorService.cs",
-              "RelativeToolTip": "MediPlus.BL\\Services\\Concretes\\DoctorService.cs",
-              "ViewState": "AgIAAA8AAACAZmZmZuYTwFQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T21:36:05.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Program.cs",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Program.cs",
               "RelativeToolTip": "MediPlus.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:44:18.191Z",
+              "WhenOpened": "2024-11-28T20:44:18.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T17:22:32.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IAppointmentService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Abstractions\\IAppointmentService.cs",
-              "RelativeDocumentMoniker": "MediPlus.BL\\Services\\Abstractions\\IAppointmentService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Abstractions\\IAppointmentService.cs",
-              "RelativeToolTip": "MediPlus.BL\\Services\\Abstractions\\IAppointmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T21:35:54.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "IDoctorService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Abstractions\\IDoctorService.cs",
               "RelativeDocumentMoniker": "MediPlus.BL\\Services\\Abstractions\\IDoctorService.cs",
@@ -518,64 +331,23 @@
               "RelativeToolTip": "MediPlus.BL\\Services\\Abstractions\\IDoctorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T21:35:08.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T21:35:08.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T18:53:43.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20241201095919_Service.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Migrations\\20241201095919_Service.cs",
-              "RelativeDocumentMoniker": "MediPlus.DAL\\Migrations\\20241201095919_Service.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Migrations\\20241201095919_Service.cs",
-              "RelativeToolTip": "MediPlus.DAL\\Migrations\\20241201095919_Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Abstractions\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "MediPlus.BL\\Services\\Abstractions\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Abstractions\\IAppointmentService.cs",
+              "RelativeToolTip": "MediPlus.BL\\Services\\Abstractions\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:59:19.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T21:35:54.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20241130202410_initial.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Migrations\\20241130202410_initial.Designer.cs",
-              "RelativeDocumentMoniker": "MediPlus.DAL\\Migrations\\20241130202410_initial.Designer.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Migrations\\20241130202410_initial.Designer.cs",
-              "RelativeToolTip": "MediPlus.DAL\\Migrations\\20241130202410_initial.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:58:05.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T18:53:45.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 8,
               "Title": "IPatientService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.BL\\Services\\Abstractions\\IPatientService.cs",
               "RelativeDocumentMoniker": "MediPlus.BL\\Services\\Abstractions\\IPatientService.cs",
@@ -583,12 +355,239 @@
               "RelativeToolTip": "MediPlus.BL\\Services\\Abstractions\\IPatientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T21:35:26.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T21:35:26.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "MediPlus.DAL\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Models\\Doctor.cs",
+              "RelativeToolTip": "MediPlus.DAL\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:18:50.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "MediPlus.DAL\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Models\\Patient.cs",
+              "RelativeToolTip": "MediPlus.DAL\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:54:48.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Doctor.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Doctor.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Doctor.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Doctor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T06:03:42.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T06:20:44.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:57:51.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEQAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T19:10:22.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:30:31.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:30:48.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Update.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Update.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Update.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T06:21:00.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Appointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Appointment.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Appointment.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Appointment.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Appointment\\Appointment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T06:03:10.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T11:34:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Patient.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Patient.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Patient.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Patient.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Patient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T06:04:03.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Update.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Update.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Update.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Patient\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T12:48:58.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:53:00.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAArwK4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T18:53:39.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T18:53:43.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20241201095919_Service.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Migrations\\20241201095919_Service.cs",
+              "RelativeDocumentMoniker": "MediPlus.DAL\\Migrations\\20241201095919_Service.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Migrations\\20241201095919_Service.cs",
+              "RelativeToolTip": "MediPlus.DAL\\Migrations\\20241201095919_Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:59:19.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241130202410_initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Migrations\\20241130202410_initial.Designer.cs",
+              "RelativeDocumentMoniker": "MediPlus.DAL\\Migrations\\20241130202410_initial.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Migrations\\20241130202410_initial.Designer.cs",
+              "RelativeToolTip": "MediPlus.DAL\\Migrations\\20241130202410_initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:58:05.594Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T18:53:45.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Controllers\\DoctorController.cs",
@@ -596,8 +595,7 @@
               "RelativeToolTip": "MediPlus.MVC\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:14:38.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:14:38.447Z"
             },
             {
               "$type": "Document",
@@ -609,8 +607,7 @@
               "RelativeToolTip": "MediPlus.BL\\Services\\Concretes\\PatientService.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAAAEYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T21:36:18.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T21:36:18.984Z"
             },
             {
               "$type": "Document",
@@ -622,8 +619,7 @@
               "RelativeToolTip": "MediPlus.DAL\\MediPlus.DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-30T22:58:53.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T22:58:53.378Z"
             },
             {
               "$type": "Document",
@@ -639,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "20241130202410_initial.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Migrations\\20241130202410_initial.cs",
               "RelativeDocumentMoniker": "MediPlus.DAL\\Migrations\\20241130202410_initial.cs",
@@ -695,8 +691,7 @@
               "RelativeToolTip": "MediPlus.MVC\\MediPlus.MVC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-29T18:12:48.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:12:48.051Z"
             },
             {
               "$type": "Document",
@@ -834,18 +829,6 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Views\\Doctor\\Index.cshtml",
-              "RelativeDocumentMoniker": "MediPlus.MVC\\Views\\Doctor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Views\\Doctor\\Index.cshtml",
-              "RelativeToolTip": "MediPlus.MVC\\Views\\Doctor\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T17:22:32.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Views\\Blog\\Index.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Views\\Blog\\Index.cshtml",
@@ -856,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\wwwroot\\style.css",
               "RelativeDocumentMoniker": "MediPlus.MVC\\wwwroot\\style.css",
@@ -868,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Views\\Service\\Index.cshtml",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Views\\Service\\Index.cshtml",
@@ -880,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Controllers\\HomeController.cs",
@@ -892,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Controllers\\BlogController.cs",
@@ -904,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Views\\_ViewStart.cshtml",
@@ -916,7 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Views\\_ViewImports.cshtml",
@@ -928,7 +911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Controllers\\ServiceController.cs",
@@ -940,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "PageController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\Controllers\\PageController.cs",
               "RelativeDocumentMoniker": "MediPlus.MVC\\Controllers\\PageController.cs",
@@ -952,39 +935,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "MediPlus.MVC",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\MediPlus.MVC.csproj",
               "RelativeDocumentMoniker": "MediPlus.MVC\\MediPlus.MVC.csproj",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.MVC\\MediPlus.MVC.csproj",
               "RelativeToolTip": "MediPlus.MVC\\MediPlus.MVC.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-29T10:06:21.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T10:06:21.088Z"
             }
           ]
         },
         {
-          "DockedWidth": 85,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "MediPlus.DAL\\Models\\Appointment.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\mediPlusApp\\MediPlus\\MediPlus.DAL\\Models\\Appointment.cs",
-              "RelativeToolTip": "MediPlus.DAL\\Models\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T10:18:48.624Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 162,
+          "DockedWidth": 250,
           "SelectedChildIndex": -1,
           "Children": [
             {
