@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MediPlus.Models.Base;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace MediPlus.DAL.Models
 {
-    public class Doctor
+    public class Doctor:BaseAuditableEntity
     {
-        public int Id { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public string FIN { get; set; }
