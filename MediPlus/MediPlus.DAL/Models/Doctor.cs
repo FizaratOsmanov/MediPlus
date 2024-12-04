@@ -20,5 +20,7 @@ namespace MediPlus.DAL.Models
 
         public ICollection<Appointment> Appointments { get; set; }
 
+        public ICollection<DoctorHospital>? DoctorHospitals { get; set; }
+
     }
 }

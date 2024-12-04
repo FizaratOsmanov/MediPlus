@@ -1,4 +1,5 @@
 ﻿using MediPlus.DAL.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace MediPlus.DAL.Contexts
 {
-    public class MediPlusDbContext:DbContext
+    public class MediPlusDbContext : IdentityDbContext<AppUser>
     {
 
         public MediPlusDbContext(DbContextOptions opt) : base(opt)
@@ -18,8 +19,12 @@ namespace MediPlus.DAL.Contexts
 
 
         public DbSet<Doctor> Doctors { get; set; }
-        public DbSet<Patient> Patients { get; set; }    
+        public DbSet<Patient> Patients { get; set; }
 
         public DbSet<Appointment> Appointments { get; set; }
+
+        public DbSet<Hospital> Hospitals { get; set; }
+        public DbSet<DoctorHospital> DoctorHospitals{ get;set;}
+
     }
 }

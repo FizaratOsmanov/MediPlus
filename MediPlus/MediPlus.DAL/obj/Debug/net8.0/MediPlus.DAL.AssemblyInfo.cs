@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediPlus.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b31ff754c213785a7646fac1764e78d34a3f6c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ed95a1fb191489c49f91da749ae80afd1b8b1dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediPlus.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediPlus.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

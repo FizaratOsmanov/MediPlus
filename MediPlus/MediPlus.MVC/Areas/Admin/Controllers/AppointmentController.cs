@@ -1,11 +1,13 @@
 ﻿using MediPlus.BL.Services.Abstractions;
 using MediPlus.BL.Services.Concretes;
 using MediPlus.DAL.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MediPlus.MVC.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles ="Admin,Manager")]
     public class AppointmentController : Controller
     {
         private readonly IAppointmentService _appointmentService;
